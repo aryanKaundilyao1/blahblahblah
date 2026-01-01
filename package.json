@@ -1,0 +1,28 @@
+{
+  "name": "blahblahblah",
+  "version": "1.0.0",
+  "description": "heuheuh",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "commit": "node index.js commit",
+    "fill": "node index.js fill 2026",
+    "add": "node index.js add",
+    "push": "node index.js push",
+    "status": "node index.js status",
+    "reset": "node index.js reset",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryanKaundilyao1/blahblahblah.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aryanKaundilyao1/blahblahblah/issues"
+  },
+  "homepage": "https://github.com/aryanKaundilyao1/blahblahblah#readme"
+}
